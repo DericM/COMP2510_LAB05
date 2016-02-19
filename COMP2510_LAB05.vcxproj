@@ -149,7 +149,8 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="COMP2510_LAB05.c" />
+    <ClCompile Include="Lab05_MccaddenDericQ1.c" />
+    <ClCompile Include="Lab05_MccaddenDericQ2.c" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
